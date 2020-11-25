@@ -41,7 +41,7 @@
 	  "mailing_city" : "Chia" , 
 	  "last_interaction" : "20201018", 
 	  "last_action" : "Document XXX uploaded and sent to client" , 
-	  "status" : "Pending" , 
+	  "status" : "Complete" , 
 	  "notification_badge" : ""
 	} , 
     { "id" : 5, 
